@@ -1,4 +1,4 @@
-+.# <font color="red">TODOS LOS HACK</font> +.
++ . # <font color="red">TODOS LOS HACK</font> + .
 
 ## Hack#1 <a href="https://github.com/yeikerdiaz150501-tech/git_h_1.git" target="_black">git_h_1</a>
 
